@@ -33,9 +33,9 @@ public class soalan45 {
             makluman="A, B, AB dan O";
         }
         
-        System.out.println("Nama : "+nama);
+        System.out.println("Nama anda : "+nama);
         System.out.println("Kumpulan darah : "+kumpdarah);
-        System.out.println("Anda boleh menderma kepada " +makluman);            
+        System.out.println("Anda hanya boleh menderma kepada " +makluman);            
     }
 }
 
